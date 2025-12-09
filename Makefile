@@ -1,6 +1,6 @@
-.PHONY : result report clean
+.PHONY : all report clean
 
-result: results/isles.dat \
+all: results/isles.dat \
 		results/abyss.dat \
 		results/last.dat \
 		results/sierra.dat \
